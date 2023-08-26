@@ -45,7 +45,7 @@ while choice != 0:
     print("-------------------------------------")
     print("")
 
-    print("(1) New message | (2) Decrypt message")
+    print("(1) New message | (2) Decrypt message | (h) help")
     print("(0) Quit ----------------------------")
     print("")
 
@@ -86,6 +86,12 @@ while choice != 0:
         print(" ")
         print("-------------------------------------")
         input("Press a key for continue... ")
+
+    if choice == "h"
+
+        clear()
+        print("--------- Help section -----------")
+        
 
     clear()
 
